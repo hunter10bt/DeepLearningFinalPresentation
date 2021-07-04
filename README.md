@@ -4,7 +4,7 @@
 
 ### Short Description
 
-In this project, we test the accuracy of the face mask detection using the YOLO v3 and YOLO v4 tiny models. Here, we train and test the models under different conditions. 
+In this project, we test the accuracy of the face mask detection using the YOLO v3 tiny and YOLO v4 tiny models. Here, we train and test the models under different conditions. 
 To train and test the models, we use [Alexey's Darknet Framework](https://github.com/AlexeyAB/darknet). For a better use of the included notebook, you can run the noteboook in Google 
 Colab and view our folder [here](https://drive.google.com/drive/folders/1BAGaF8hdnLv8_KpCJ4Dn05ZlAFH0llNc?usp=sharing). The folder includes weights in the backup folder and the zipped 
 dataset taken from [aditya276's Face Mask Dataset (YOLO Format) in Kaggle](https://www.kaggle.com/aditya276/face-mask-dataset-yolo-format).
