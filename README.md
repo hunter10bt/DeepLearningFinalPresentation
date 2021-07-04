@@ -5,7 +5,7 @@
 ### Short Description
 
 In this project, we test the accuracy of the face mask detection using the YOLO v3 and YOLO v4 tiny models. Here, we train and test the models under different conditions. 
-To train and test the models, we use [Alexey's Darknet Framework] (https://github.com/AlexeyAB/darknet).
+To train and test the models, we use [Alexey's Darknet Framework](https://github.com/AlexeyAB/darknet).
 
 ### Contributors
 
